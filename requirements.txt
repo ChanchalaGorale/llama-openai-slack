@@ -1,0 +1,14 @@
+llama-index
+openai
+PyPDF2
+slack_sdk
+pinecone-client
+python-dotenv
+llama-index-vector-stores-pinecone
+llama-index-llms-openai
+llama-index-agent-openai
+llama-index-embeddings-openai
+python-dotenv
+llama-index-readers-file
+streamlit
+slack-sdk
